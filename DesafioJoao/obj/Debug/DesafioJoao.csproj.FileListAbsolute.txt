@@ -1,0 +1,8 @@
+C:\Users\diogo\Source\Repos\AprendendoCSharp\DesafioJoao\obj\Debug\DesafioJoao.csproj.AssemblyReference.cache
+C:\Users\diogo\Source\Repos\AprendendoCSharp\DesafioJoao\obj\Debug\DesafioJoao.csproj.SuggestedBindingRedirects.cache
+C:\Users\diogo\Source\Repos\AprendendoCSharp\DesafioJoao\obj\Debug\DesafioJoao.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Source\Repos\AprendendoCSharp\DesafioJoao\bin\Debug\DesafioJoao.exe.config
+C:\Users\diogo\Source\Repos\AprendendoCSharp\DesafioJoao\bin\Debug\DesafioJoao.exe
+C:\Users\diogo\Source\Repos\AprendendoCSharp\DesafioJoao\bin\Debug\DesafioJoao.pdb
+C:\Users\diogo\Source\Repos\AprendendoCSharp\DesafioJoao\obj\Debug\DesafioJoao.exe
+C:\Users\diogo\Source\Repos\AprendendoCSharp\DesafioJoao\obj\Debug\DesafioJoao.pdb

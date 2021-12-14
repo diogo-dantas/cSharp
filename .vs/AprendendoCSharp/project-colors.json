@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bfcdb856-d826-49d6-ae1a-f5d670ff33ac": {
+      "ProjectGuid": "bfcdb856-d826-49d6-ae1a-f5d670ff33ac",
+      "DisplayName": "1-PrimeiroProjeto",
+      "ColorIndex": 0
+    },
+    "ce12f8d3-c06e-4b07-b83b-f5106a1f0c20": {
+      "ProjectGuid": "ce12f8d3-c06e-4b07-b83b-f5106a1f0c20",
+      "DisplayName": "4-ConversoresEOutrosTiposNumericos",
+      "ColorIndex": 1
+    },
+    "2ca3ddb1-1e49-46dc-8c69-40b4627908cf": {
+      "ProjectGuid": "2ca3ddb1-1e49-46dc-8c69-40b4627908cf",
+      "DisplayName": "5-CaracteresETextos",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
